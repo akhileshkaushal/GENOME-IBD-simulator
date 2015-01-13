@@ -17,5 +17,5 @@ Citations
 Contacts
 
 email Pier Palamara, ppalama AT hsph DOT harvard ONEMOREDOT edu for questions related to the -ibd flag.
-Please contact the authors of the origina GENOME package for anything that is not related to the -ibd flag.
+Please contact the authors of the original GENOME package for anything that is not related to the -ibd flag.
 
