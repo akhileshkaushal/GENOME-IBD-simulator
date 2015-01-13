@@ -6,7 +6,7 @@ IBD segments will be output using the format:
 IBD   ID1   ID2   physicalFrom   physicalTo   geneticLength(cM)
 Example:
 ./genome -pop 1 100 -N 1000 -pieces 10000 -ibd 1.0
-
+The IBD segments are computed from the newick trees representing the ARG. An IBD segment is defined as a segment for which the most recent common ancestor for two haploid individuals remains unchanged. Tools to extract IBD using Newick trees in other simulators are available upon request.
 
 Citations
 
