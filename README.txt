@@ -1,3 +1,4 @@
+# Genome-IBD simulator
 
 A modified GENOME coalescent simulator that outputs IBD segments. The original program can be found at http://www.sph.umich.edu/csg/liang/genome/
 The simulator was modified to output IBD segments. To use this feature, add the -ibd flag, followed by a number indicating the minimum length of the IBD segment to be output (e.g. "-ibd 1.0" for segments of 1cM or longer).
